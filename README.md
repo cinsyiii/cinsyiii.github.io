@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p> This will be my portfolio site. Currently WIP, I don't know how github works so it's mostly a test</p>
 <!--
 **cinsyiii/cinsyiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
